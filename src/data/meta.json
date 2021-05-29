@@ -1,5 +1,5 @@
 {
-    "url": "https://demo-resume.netlify.app",
+    "url": "https://talko-evgeniy-resume.netlify.app",
     "lang": "ru",
     "locale": "ru_ru",
     "colors": {
@@ -7,4 +7,3 @@
         "secondary": "#fc6767"
     }
 }
-
